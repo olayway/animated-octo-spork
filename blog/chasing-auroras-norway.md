@@ -1,13 +1,3 @@
----
-title: Chasing Auroras in Norway
-description: Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances.
-authors:
-  - John Doe
-date: 2024-04-17
----
-
-# Chasing Auroras in Norway
-
 Join me on a mesmerizing journey beneath the Arctic skies, where nature's most enchanting spectacle dances.
 
 ## The Northern Lights Adventure
